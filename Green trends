@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Green trends</title>
+</head>
+<body>
+	<h1 align=center>Green trends</h1>
+  <img src="" alt="">
+  <h1 align=center><img src=<a href="https://ibb.co/VWBw7NHG"><img src="https://i.ibb.co/8D8YWBzw/green-trends-unisex-hair-and-style-salon-udamalpet-bazaar-udumalpet-beauty-parlours-ivopniamus.jpg" alt="green-trends-unisex-hair-and-style-salon-udamalpet-bazaar-udumalpet-beauty-parlours-ivopniamus" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'></a><br /> <alt="width=300" height="300"></h1>
+	
+	<h2>Green trends details</h2>
+	<ul>
+		<li>Hair spa</li>
+		<li>Hair colouring</li>
+		<li>Hair cut</li>
+		<li>Head massage</li>
+	</ul>
+	
+	<button>Book Now</button>
+	
+	<h2>Unisex style Salon</h2>
+	<table>
+		<tr>
+			<th>smart savers combo</th>
+			<th>save upto 25% offer</th>
+		</tr>
+		<tr>
+			<td>Refreshing facials</td>
+			<td>599</td>
+		</tr>
+		<tr>
+			<td>fair bloom facial </td>
+			<td>499</td>
+		</tr>
+		<tr>
+			<td>Aroma skin lightening facial</td>
+			<td>399</td>
+		</tr>
+	</table>
+</body>
+</html>
